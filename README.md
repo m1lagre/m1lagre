@@ -1,16 +1,17 @@
 # 👋 Olá, eu sou o Gabriel Santana!
 
 🎓 Estudante de **Engenharia da Computação**  
+<br /><br />
 💻 Atualmente, sou **estagiário na área de desenvolvimento**, atuando com **integração de sistemas, APIs e automação de processos** e **trainee front-end** na **Titan Empresa Júnior** [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
-👨‍💻 Gerente de Desenvolvimento Mobile na TITAN [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br /> 
+<br /><br />
 🚀 Tenho curiosidade constante por novas tecnologias e estou sempre aprendendo sobre diferentes linguagens e ferramentas do ecossistema de programação.
 
 ---
 
 ### 💡 Sobre mim
 Sou movido por desafios e acredito que o aprendizado real acontece quando saímos da zona de conforto.  
-Sou proativo, gosto de aprender coisas novas para me adaptar e entregar resultados.  
-Minha maior motivação é **crescer através da prática**, enfrentando problemas reais e aprendendo com cada experiência.
+Me considero muito proativo e gosto de aprender coisas novas para me adaptar e entregar resultados.  
+Minha maior motivação é **crescer através da prática**, enfrentando problemas reais e aprendendo com cada experiência nova.
 
 ---
 
@@ -33,19 +34,26 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 
 ---
 
-### 🌐 Contato
-📧 **santana.gsilva@gmail.com*  
-🔗 [LinkedIn](www.linkedin.com/in/gabriel-santana-7207b9223)  
+### 🌐 Você me encontra em:
+📧 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana-7207b9223/)
+🔗 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santana.gsilva@gmail.com)
 <!--
 ** 💼 [Portfólio (em breve)](https://github.com/gabrielsantana) -->
 
 ---
 
-> 💬 *“A tecnologia move o mundo, mas são as pessoas que dão sentido a ela.”*
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1lagre&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1lagre&layout=compact&theme=radical)
 
+<div style="display: flex;">
+  <a href="https://github.com/M1lagre">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=M1lagre&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1lagre&layout=compact&theme=dracula" alt="Top Langs" />
+  </a>
+</div>
+
+> 💬 *“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende. - Leonardo da Vinci.”*
 <!--
 **m1lagre/m1lagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
