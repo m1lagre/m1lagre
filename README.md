@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia da Computação** (UFBA) 
 <br />
-💻 Atualmente, sou estagiário na área de desenvolvimento, atuando com integração de sistemas, APIs e automação de processos. Também sou trainee front-end na **Titan Empresa Júnior** [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
+💻 Atualmente, sou estagiário na área de desenvolvimento, atuando com integração de sistemas, APIs e automação de processos. Também sou trainee front-end na Titan Empresa Júnior [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
 <br />
 🚀 Tenho curiosidade constante por novas tecnologias e estou sempre aprendendo sobre diferentes linguagens e ferramentas do ecossistema de programação.
 
@@ -48,6 +48,9 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1lagre&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
+
+  ![Snake animation](https://github.com/M1lagre/M1lagre/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 > 💬 *“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende. - Leonardo da Vinci.”*
