@@ -35,8 +35,8 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 ---
 
 ### 🌐 Você me encontra em:
-📧 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana-7207b9223/)
-🔗 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santana.gsilva@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-santana-7207b9223/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santana.gsilva@gmail.com)
 <!--
 ** 💼 [Portfólio (em breve)](https://github.com/gabrielsantana) -->
 
@@ -45,9 +45,6 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 
 
 <div style="display: flex;">
-  <a href="https://github.com/M1lagre">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=M1lagre&show_icons=true&theme=dracula&count_private=true" alt="Fraga GitHub stats" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1lagre&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
