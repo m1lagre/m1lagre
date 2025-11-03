@@ -45,7 +45,7 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 
 
 <div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1lagre&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
 
