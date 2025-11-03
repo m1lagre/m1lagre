@@ -1,4 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Santana!
+
+🎓 Estudante de **Engenharia da Computação**  
+💻 Atualmente, sou **estagiário na área de desenvolvimento**, atuando com **integração de sistemas, APIs e automação de processos** e **trainee front-end** na **Titan Empresa Júnior** [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
+👨‍💻 Gerente de Desenvolvimento Mobile na TITAN [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br /> 
+🚀 Tenho curiosidade constante por novas tecnologias e estou sempre aprendendo sobre diferentes linguagens e ferramentas do ecossistema de programação.
+
+---
+
+### 💡 Sobre mim
+Sou movido por desafios e acredito que o aprendizado real acontece quando saímos da zona de conforto.  
+Sou proativo, gosto de aprender coisas novas para me adaptar e entregar resultados.  
+Minha maior motivação é **crescer através da prática**, enfrentando problemas reais e aprendendo com cada experiência.
+
+---
+
+### 🧠 Habilidades e Interesses
+- **Desenvolvimento de Software:** Front-end e Back-end  
+- **Integração de APIs** e automação de sistemas  
+- **Versionamento e colaboração com Git/GitHub**  
+- **Metodologias ágeis:** Scrum, MVP  
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+---
+
+### 🌐 Contato
+📧 **santana.gsilva@gmail.com*  
+🔗 [LinkedIn](www.linkedin.com/in/gabriel-santana-7207b9223)  
+<!--
+** 💼 [Portfólio (em breve)](https://github.com/gabrielsantana) -->
+
+---
+
+> 💬 *“A tecnologia move o mundo, mas são as pessoas que dão sentido a ela.”*
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1lagre&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1lagre&layout=compact&theme=radical)
 
 <!--
 **m1lagre/m1lagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
