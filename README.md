@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Gabriel Santana!
 
-🎓 Estudante de **Engenharia da Computação**  
-<br /><br />
-💻 Atualmente, sou **estagiário na área de desenvolvimento**, atuando com **integração de sistemas, APIs e automação de processos** e **trainee front-end** na **Titan Empresa Júnior** [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
-<br /><br />
+🎓 Estudante de **Engenharia da Computação** (UFBA) 
+<br />
+💻 Atualmente, sou estagiário na área de desenvolvimento, atuando com integração de sistemas, APIs e automação de processos. Também sou trainee front-end na **Titan Empresa Júnior** [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)
+<br />
 🚀 Tenho curiosidade constante por novas tecnologias e estou sempre aprendendo sobre diferentes linguagens e ferramentas do ecossistema de programação.
 
 ---
