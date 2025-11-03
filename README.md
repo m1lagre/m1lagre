@@ -44,14 +44,9 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 
 
 
-<div style="display: flex;">
- <!-- <a href="https://github.com/anuraghazra/github-readme-stats" style="margin: auto;">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1lagre&layout=compact&theme=dracula" alt="Top Langs" />
-  </a>
-
   ![Snake animation](https://github.com/M1lagre/M1lagre/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
 
 > 💬 *“Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende. - Leonardo da Vinci.”*
 <!--
