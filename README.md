@@ -43,8 +43,7 @@ Minha maior motivação é **crescer através da prática**, enfrentando problem
 ---
 
 
-
-  ![Snake animation](https://github.com/M1lagre/M1lagre/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/M1lagre/M1lagre/blob/output/github-contribution-grid-snake.svg)
 
 
 
