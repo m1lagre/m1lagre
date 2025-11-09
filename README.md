@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Santana!
+# 👋 Oi, eu sou o Gabriel Santana!
 
 🎓 Estudante de **Engenharia da Computação** (UFBA) 
 <br />
